@@ -1,0 +1,11 @@
+C:\Users\eriquelmes\source\repos\ColorComboBox\ColorComboBox\bin\Debug\ColorComboBox.exe.config
+C:\Users\eriquelmes\source\repos\ColorComboBox\ColorComboBox\bin\Debug\ColorComboBox.exe
+C:\Users\eriquelmes\source\repos\ColorComboBox\ColorComboBox\bin\Debug\ColorComboBox.pdb
+C:\Users\eriquelmes\source\repos\ColorComboBox\ColorComboBox\obj\Debug\ColorComboBox.csproj.AssemblyReference.cache
+C:\Users\eriquelmes\source\repos\ColorComboBox\ColorComboBox\obj\Debug\ColorComboBox.csproj.SuggestedBindingRedirects.cache
+C:\Users\eriquelmes\source\repos\ColorComboBox\ColorComboBox\obj\Debug\ColorComboBox.Form1.resources
+C:\Users\eriquelmes\source\repos\ColorComboBox\ColorComboBox\obj\Debug\ColorComboBox.Properties.Resources.resources
+C:\Users\eriquelmes\source\repos\ColorComboBox\ColorComboBox\obj\Debug\ColorComboBox.csproj.GenerateResource.cache
+C:\Users\eriquelmes\source\repos\ColorComboBox\ColorComboBox\obj\Debug\ColorComboBox.csproj.CoreCompileInputs.cache
+C:\Users\eriquelmes\source\repos\ColorComboBox\ColorComboBox\obj\Debug\ColorComboBox.exe
+C:\Users\eriquelmes\source\repos\ColorComboBox\ColorComboBox\obj\Debug\ColorComboBox.pdb
